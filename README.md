@@ -1,6 +1,6 @@
 # 💻 Lambda Expressions in Java
 
-This repository demonstrates the **concept of Lambda Expressions** in Java — a feature introduced in **Java 8** that enables functional programming by allowing you to write cleaner, more concise code.
+This repository demonstrates the **concept of Lambda Expressions** in Java, a feature introduced in **Java 8** that enables functional programming by allowing you to write cleaner, more concise code.
 
 ---
 
@@ -24,23 +24,23 @@ This project includes two main approaches:
 ---
 
 ## 🗂️ Project Structure
-
+```
 src/
 └── org/
 └── lambda/
 ├── Main.java
 ├── MyInter.java
 └── MyInterImplement.java
-
+```
 ---
 # 🧩 Requirements
 
--Java 8 or above
--Any IDE (Eclipse, IntelliJ IDEA, VS Code) or use command line tools
+- Java 8 or above
+- Any IDE (Eclipse, IntelliJ IDEA, VS Code) or use command line tools
 
 ---
 # 🎯 Learning Outcome
 
--Understanding Functional Interfaces
--Implementing Lambda Expressions
--Simplifying Java code using functional programming concepts
+- Understanding Functional Interfaces
+- Implementing Lambda Expressions
+- Simplifying Java code using functional programming concepts
