@@ -23,5 +23,17 @@ public class MyWindow {
 //			}
 //		});
 		
+		button.addActionListener((e) -> {
+			System.out.println("Button Click");
+			JOptionPane.showMessageDialog(null, "Hey, Button click");
+		});
+		
+		frame.add(button);
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		frame.setVisible(true);
+
+	}
+
+}
 
 
